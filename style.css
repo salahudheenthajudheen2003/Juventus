@@ -1,0 +1,76 @@
+body{
+      background-color: black;
+      font-family:times new roman; 
+      font-size:30px;
+      padding: 30px
+}
+
+h1{
+      padding-right: 100px;
+      color: white;
+}
+
+h3{
+      color:#8BFABF;
+}
+
+p{
+      color:6A5ACD;
+}
+
+h2{
+   color:white;
+}
+
+li{
+   color:white;
+}
+
+name{
+      color:white;
+}
+
+#asd {
+color:white;
+}
+
+#bsd {
+color:white;
+}
+
+#csd {
+color:white;
+}
+
+img{
+margin-left: 30px;
+}
+
+li{
+list-style-type:square;
+}
+
+a{
+color:#808080;
+h4{
+color:white;
+}
+
+.cr7{
+margin-bottom:2px;
+}
+
+.ny11{
+	background-color: black;
+	color: white;
+	width: 150px;
+	height: 40px;
+}
+
+.ny{
+color:Green;
+}
+iframe{
+   padding-right: 80px
+
+}
